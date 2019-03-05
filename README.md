@@ -3,16 +3,36 @@
 Mathematics / Machine Learning group
 ---
 
-The objective of this repository is to have a place where we can save all our presentations.
+The objective of this repository is to have a place where we can keep track of all our presentations.
 
 During our weekly sessions, we will be covering the following topics:
 
 ---
 1. Generative Models
 
-    Generative Adversarial Networks.
-    Variational Autoencoders (VAE)
+    Generative Adversarial Networks ([GAN](https://arxiv.org/abs/1406.2661)).
+    Variational Autoencoders ([VAE](https://arxiv.org/abs/1312.6114))
+    Stochastic Backpropagation and Approximate Inference in Deep Generative Models ([paper](https://arxiv.org/abs/1401.4082))
     Flow based methods (normalized flows)
+    * [AVB](AVB): Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks ([paper](https://arxiv.org/abs/1701.04722))
+    * [Gumbel-SoftmaxVAE](Gumbel-SoftmaxVAE): Categorical Reparameterization with Gumbel-Softmax ([paper](https://arxiv.org/abs/1611.01144))
+    The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables ([paper](https://arxiv.org/abs/1611.00712))
+    * VQVAE: Neural Discrete Representation Learning ([paper](https://arxiv.org/abs/1711.00937))
+    * TripleGAN: Triple Generative Adversarial Nets ([paper](https://arxiv.org/abs/1703.02291))
+    * ConditionalVAE: Semi-Supervised Learning with Deep Generative Models ([paper](https://arxiv.org/abs/1406.5298))
+    * [AAE](AAE): Adversarial Autoencoders ([paper](https://arxiv.org/abs/1511.05644))
+    * f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization ([paper](https://arxiv.org/abs/1606.00709))
+    * ImprovedGAN: Improved Techniques for Training GANs ([paper](https://arxiv.org/abs/1606.03498))
+    * [DCGAN](DCGAN): Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks ([paper](https://arxiv.org/abs/1511.06434))
+    * WGAN: Wasserstein Generative Adversarial Networks ([paper](http://proceedings.mlr.press/v70/arjovsky17a.html))
+
+
+**Tutorials**
+* NIPS 2016 Tutorial: Generative Adversarial Networks ([paper](https://arxiv.org/abs/1701.00160) [slides](https://media.nips.cc/Conferences/2016/Slides/6202-Slides.pdf) [video](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks))
+* CVPR 2017 Tutorial: Theory and Application of Generative Adversarial Networks ([slides](https://raw.githubusercontent.com/mingyuliutw/cvpr2017_gan_tutorial/master/gan_tutorial.pdf) [video](https://www.youtube.com/watch?v=KudkR-fFu_8))
+* Tutorial on Variational Autoencoders ([paper](https://arxiv.org/abs/1606.05908))
+* Bayesian Deep Learning and Generic Bayesian Inference ([slides](https://www.dropbox.com/s/xcawad601yplnm5/blei.pdf?dl=0))
+
 ---
 2. Information Theory, Information Geometry and Natural Gradients
 
