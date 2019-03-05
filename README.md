@@ -6,70 +6,70 @@ The objective of this repository is to have a place where we can save all our pr
 
 During our weekly sessions, we will be covering the following topics:
 
-Generative Models
+1. Generative Models
 
-    GANs
-    VAE
+    Generative Adversarial Networks.
+    Variational Autoencoders (VAE)
     Flow based methods (normalized flows)
 
  
-Information Theory, Information Geometry and Natural Gradients
+2. Information Theory, Information Geometry and Natural Gradients
 
     Basic tools (definitions, etc)
-    Go through a textbook or some basic review papers? (not sure what to put here since I know almost nothing)
+    Go through a textbook or some basic review papers.
 
-RL
+3. Reinforcement Learning
 
     Bandits
-    Theory/background of MDPs
-    Optimality...in what sense?!
+    Theory/background of Markov Decision Process (MDP)
+    Optimality
     Value iteration, policy iteration
     Value based methods
     Policy search (policy gradient) methods
 
-Statistical Learning Theory
+ 4. Statistical Learning Theory
 
     Framework; Rademacher Complexity; VC dimension; basic bounds
     SVMs
 
-Semi Supervised Learning (SSL)
+ 5. Semi Supervised Learning (SSL)
 
     Overall assumptions; positive and negative theoretical results
     Graph based methods (Laplacian framework)
     Label propagation methods
-    Modern (NN) methods
+    Modern Neural Network methods
 
-Active Learning
+ 6. Active Learning
 
     Learning theory
     Fisher information methods
     ensemble methods
 
-Metric Learning
+ 7. Metric Learning
 
     Formal theory (Mahalanobis methods)
     Triplet loss function
     Siamese networks and other modern approaches (embeddings, etc)
 
-Neural Networks
+ 8. Neural Networks
 
     Basics (activation functions, computation graphs, backpropagation, loss functions and objective functions)
     Basics II (standard practices in training/testing; detecting overfitting/underfitting; regularization methods)
-    CNNs 
-    RNN/LSTMs
+    Convolutional Neural Networks 
+    Recurrent Neural Networks/Long Short Term Memory
     Attention
     Auxiliary tasks (e.g. multi-headed NN's)
 
-Kernel Methods
+ 9. Kernel Methods
 
     Reproducing kernel Hilbert spaces
     Kernel density estimation
     approximating kernel methods
 
-Manifold Learning
-Bayesian methods; Gaussian processes; MCMC
-NLP
-Image Processing/Computer Vision
-Adversarial methods
-Transfer learning (zero shot, few shot, one shot learning)
-Optimization methods
+- Manifold Learning
+- Bayesian methods; Gaussian processes; Markov Chain Monte Carlo(MCMC)
+- Natural Language Processing (NLP) 
+- Image Processing/Computer Vision
+- Adversarial methods
+- Transfer learning (zero shot, few shot, one shot learning)
+- Optimization methods
