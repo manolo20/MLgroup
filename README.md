@@ -1,6 +1,7 @@
 # MLgroup
 
 Mathematics / Machine Learning group
+---
 
 The objective of this repository is to have a place where we can save all our presentations.
 
@@ -11,7 +12,7 @@ During our weekly sessions, we will be covering the following topics:
     Generative Adversarial Networks.
     Variational Autoencoders (VAE)
     Flow based methods (normalized flows)
-
+---
  
 2. Information Theory, Information Geometry and Natural Gradients
 
