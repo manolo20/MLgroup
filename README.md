@@ -33,6 +33,8 @@ During our weekly sessions, we will be covering the following topics:
 * Tutorial on Variational Autoencoders ([paper](https://arxiv.org/abs/1606.05908))
 * Bayesian Deep Learning and Generic Bayesian Inference ([slides](https://www.dropbox.com/s/xcawad601yplnm5/blei.pdf?dl=0))
 
+1.1. Differncial Privacy:  
+Area of research which seeks to provide rigorous, statistical guarantees against what an adversary can infer from learning the results of some randomized algorithm ([Amazon Research](https://borjaballe.github.io/slides/dp-tutorial-long.pdf))
 ---
 2. Information Theory, Information Geometry and Natural Gradients
 
