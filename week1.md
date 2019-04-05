@@ -1,5 +1,5 @@
 
-# Week 1
+# Week 1 - Week 3
 
 Saeid presented "Generative and Discriminative Models". We covered the following presentations from Stanford University:
 
