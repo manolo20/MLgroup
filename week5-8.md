@@ -6,4 +6,5 @@ To complement Nick’s last week talk, here is a blog post explaining the k-arme
 
 Same blog, but a post on Markov Decision Processes (which will be covered by Nick today): https://oneraynyday.github.io/ml/2018/05/06/Reinforcement-Learning-MDPs/
 
-
+Temporal Difference Learning Gridworld Demo by Kaparthy:
+https://cs.stanford.edu/people/karpathy/reinforcejs/gridworld_td.html
