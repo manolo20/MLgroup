@@ -1,0 +1,3 @@
+[submodule "tutorials"]
+	path = tutorials
+	url = https://github.com/bryanpaget/tutorials
